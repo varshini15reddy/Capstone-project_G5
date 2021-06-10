@@ -23,6 +23,31 @@ PCB design & schematic capture: PCB layout and the required design , schematics 
 Security systems are in huge need these days. Spying on houses, workplaces , borders and military has become more important these days. Our project is supervison camera on wheels, which basically is the spy camera to monitor the threat. We use a raspberry pi whcih is controlled via an andriod bluetooth app and a 360-degree night vision camera for surveillance . This camera provides a live stream of the video that it captures whcih can be seen in an andriod app as well.We can access the video at anytime.We use the cloud storage in the app which is associated with camera which we are using. Metal detector is used to detect the threat and send an email notification. Temeprature is also measured using the sensor and notified. Location is also tracked by GPS and GSM modules.
 
 # HARDWARE COMPONENTS 
+Raspberry pi 3 
+
+Aurdino
+
+Power Supply
+
+GSM  Module
+
+GPS Module
+
+Temperature Sensor
+
+Metal Detector
+
+USB Camera
+
+Motors
+
+Motor driver
+
+Buzzer
+
+Rechargeable Batteries
+
+
 # SOFTWARE COMPONENTS
 C language
 
@@ -33,5 +58,10 @@ V380 Camera Application for cloud storage
 # BLOCK DIAGRAM
 ![BD](https://user-images.githubusercontent.com/60661186/121600496-2b7ab580-ca62-11eb-93d9-78174dbb672f.jpg)
 
+# FLOW CHART
+![fc](https://user-images.githubusercontent.com/60661186/121601172-3255f800-ca63-11eb-84b2-e803e0bf02a9.jpg)
+
+# ENGINEERING DIAGRAM
+![ED](https://user-images.githubusercontent.com/60661186/121601275-59142e80-ca63-11eb-9024-dde688710d87.jpg)
 
 
